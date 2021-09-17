@@ -1,0 +1,12 @@
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\bin\Debug\PeptideDockSettings.dll
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\bin\Debug\PeptideDockSettings.pdb
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\obj\Debug\PeptideDockSettings.dll
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\obj\Debug\PeptideDockSettings.pdb
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\bin\Debug\PeptideDockSettings.dll
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\bin\Debug\PeptideDockSettings.pdb
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\obj\Debug\PeptideDockSettings.dll
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\PeptideDockSettings\obj\Debug\PeptideDockSettings.pdb
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\PeptideDockSettings\bin\Debug\PeptideDockSettings.dll
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\PeptideDockSettings\bin\Debug\PeptideDockSettings.pdb
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\PeptideDockSettings\obj\Debug\PeptideDockSettings.dll
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\PeptideDockSettings\obj\Debug\PeptideDockSettings.pdb
