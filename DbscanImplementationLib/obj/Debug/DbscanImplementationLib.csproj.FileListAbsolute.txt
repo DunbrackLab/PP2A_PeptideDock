@@ -1,0 +1,12 @@
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\bin\Debug\DbscanImplementationLib.dll
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\bin\Debug\DbscanImplementationLib.pdb
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\obj\Debug\DbscanImplementationLib.dll
+X:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\obj\Debug\DbscanImplementationLib.pdb
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\bin\Debug\DbscanImplementationLib.dll
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\bin\Debug\DbscanImplementationLib.pdb
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\obj\Debug\DbscanImplementationLib.dll
+C:\Qifang\Projects\ProtCidDbProjects\PeptideDock\DbscanImplementationLib\obj\Debug\DbscanImplementationLib.pdb
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\DbscanImplementationLib\bin\Debug\DbscanImplementationLib.dll
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\DbscanImplementationLib\bin\Debug\DbscanImplementationLib.pdb
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\DbscanImplementationLib\obj\Debug\DbscanImplementationLib.dll
+C:\Users\Qifang\Phophatase_docking\CodeProject\PeptideDock\DbscanImplementationLib\obj\Debug\DbscanImplementationLib.pdb
